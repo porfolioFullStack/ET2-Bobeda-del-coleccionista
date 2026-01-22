@@ -2,13 +2,19 @@
 
 Proyecto integrador de Etapa 2: SPA en HTML/CSS/JS sin frameworks. El objetivo es practicar routing, estado global, URL como estado, CRUD, fetch, validaciones y persistencia local.
 
+---
 ## Como correr
 
 1) Abrir el proyecto con Live Server o cualquier servidor estatico.
 2) Navegar a `index.html`.
 3) Usar el selector de rol en el header para cambiar de Visitante / Coleccionista / Especialista.
 
-No se requiere build ni bundler.
+No se requiere build ni bundler.  
+
+## Pagina de prueba  
+https://porfoliofullstack.github.io/ET2-Bobeda-del-coleccionista/
+
+---
 
 ## Rutas principales (hash routing)
 

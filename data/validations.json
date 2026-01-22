@@ -1,0 +1,20 @@
+[
+  {
+    "id": 9001,
+    "itemId": 101,
+    "specialistId": "spec-1",
+    "status": "approved",
+    "note": "Verified serials and provenance chain.",
+    "estimateMin": 420,
+    "estimateMax": 520
+  },
+  {
+    "id": 9002,
+    "itemId": 103,
+    "specialistId": "spec-2",
+    "status": "pending",
+    "note": "",
+    "estimateMin": null,
+    "estimateMax": null
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "spec-1",
+    "name": "Helena Morris",
+    "areas": ["hardware", "aerospace"],
+    "level": "Gold",
+    "validationsCount": 42
+  },
+  {
+    "id": "spec-2",
+    "name": "Rafael Soto",
+    "areas": ["art", "sculpture"],
+    "level": "Silver",
+    "validationsCount": 18
+  }
+]

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Boveda del Coleccionista</title>
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark">BC</span>
+      <div class="brand-text">
+        <h1>Boveda del Coleccionista</h1>
+        <p class="tagline">Catalog, inventory, and validation workflows</p>
+      </div>
+    </div>
+    <nav class="site-nav">
+      <a href="#/">Marketplace</a>
+      <a href="#/dashboard">Dashboard</a>
+      <a href="#/validator">Especialista</a>
+      <a href="#/about">About</a>
+    </nav>
+    <div class="role-switch">
+      <label for="role-select">Rol</label>
+      <select id="role-select">
+        <option value="buyer">Visitante</option>
+        <option value="seller">Coleccionista</option>
+        <option value="validator">Especialista</option>
+      </select>
+    </div>
+  </header>
+
+  <main id="app" class="app-root"></main>
+
+  <footer class="site-footer">
+    <p>Tasaciones referenciales. Las transacciones ocurren fuera de la plataforma.</p>
+    <p>Datos demo guardados localmente; no se usan datos personales reales.</p>
+  </footer>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

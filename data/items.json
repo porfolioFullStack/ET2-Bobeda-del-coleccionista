@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "title": "Apollo guidance chip",
+    "category": "hardware",
+    "price": 480,
+    "location": "CBA",
+    "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?auto=format&fit=crop&w=800&q=80",
+    "description": "Flight control logic module with provenance notes.",
+    "ownerId": "seller-1"
+  },
+  {
+    "id": 102,
+    "title": "Studio bronze sculpture",
+    "category": "art",
+    "price": 1250,
+    "location": "BUE",
+    "image": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?auto=format&fit=crop&w=800&q=80",
+    "description": "Limited run bronze from local atelier.",
+    "ownerId": "seller-2"
+  },
+  {
+    "id": 103,
+    "title": "Vintage tournament card set",
+    "category": "cards",
+    "price": 760,
+    "location": "ROS",
+    "image": "https://images.unsplash.com/photo-1510519138101-570d1dca3d66?auto=format&fit=crop&w=800&q=80",
+    "description": "Full set with mint sleeves and storage.",
+    "ownerId": "seller-1"
+  }
+]
